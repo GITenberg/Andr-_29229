@@ -1,0 +1,38 @@
+_repo: Andr-_29229
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunlap, William
+    birthdate: 1766
+    deathdate: 1839
+    gutenberg_agent_id: '33788'
+    url: http://www.gutenberg.org/2009/agents/33788
+  editor:
+    agent_name: Moses, Montrose Jonas
+    alias: Moses, Montrose J.
+    birthdate: 1878
+    deathdate: 1934
+    gutenberg_agent_id: '4192'
+    url: http://www.gutenberg.org/2009/agents/4192
+description: ''
+gutenberg_issued: '2009-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Drama'
+- !lcsh 'Espionage, British -- Drama'
+- !lcsh 'Spies -- Drama'
+- !lcsh 'American drama'
+- !lcsh 'André, John, 1751-1780 -- Drama'
+- !lcsh 'Tragedies'
+title: André
+url: http://www.gutenberg.org/ebooks/29229
